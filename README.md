@@ -49,6 +49,7 @@ Continuing the work @ [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-
 - [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Manage NetworkManager connections
 - [rofi-code](https://github.com/Coffelius/rofi-code) - Use rofi to quickly open VSCode or Codium workspaces
 - [rofi-files](https://github.com/cjbassi/rofi-files) - Quickly open files and folders
+- [rofi-keys](https://github.com/wwwehr/rofi-keys) - Use a hotkey rofi popup to launch apps fast
 - [rofi-power](https://github.com/cjbassi/rofi-power) - Perform systemd based power management
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Mode for systemd-based power management
 - [rofi-script-to-dmenu](https://github.com/jluttine/rofi-script-to-dmenu) - Run rofi scripts with dmenu (or in rofi dmenu mode)
